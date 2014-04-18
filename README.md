@@ -1,4 +1,4 @@
-R Programming (John Hopkins Univercity)
+R Programming (John Hopkins University)
 ============
 
 R programming
