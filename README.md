@@ -1,2 +1,2 @@
-## R Programming (Coursera & John Hopkins University)
+## R Programming 
 ### Ver 0.01
